@@ -1,0 +1,6 @@
+{
+  "port": 5000,
+  "jwtSecret": "maxio",
+  "mongoUri": "mongodb+srv://Max:1@cluster0-cp9mv.azure.mongodb.net/test?retryWrites=true&w=majority",
+  "baseUrl": "http://localhost:5000"
+}
